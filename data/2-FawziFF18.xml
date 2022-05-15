@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<article key="journals/ml/FawziFF18" mdate="2020-03-02">
+<author>Alhussein Fawzi</author>
+<author orcid="0000-0001-8491-0359">Omar Fawzi</author>
+<author>Pascal Frossard</author>
+<title>Analysis of classifiers' robustness to adversarial perturbations.</title>
+<pages>481-508</pages>
+<year>2018</year>
+<volume>107</volume>
+<journal>Mach. Learn.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s10994-017-5663-3</ee>
+<ee>https://www.wikidata.org/entity/Q62556705</ee>
+<url>db/journals/ml/ml107.html#FawziFF18</url>
+</article></dblp>

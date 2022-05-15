@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangYJXGJ19" mdate="2019-07-22">
+<author>Hongyang Zhang</author>
+<author>Yaodong Yu</author>
+<author>Jiantao Jiao</author>
+<author>Eric P. Xing</author>
+<author>Laurent El Ghaoui</author>
+<author>Michael I. Jordan</author>
+<title>Theoretically Principled Trade-off between Robustness and Accuracy.</title>
+<pages>7472-7482</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19p.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangYJXGJ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/nips/ShafahiNG0DSDTG19" mdate="2021-01-21">
+<author>Ali Shafahi</author>
+<author>Mahyar Najibi</author>
+<author>Amin Ghiasi</author>
+<author>Zheng Xu 0002</author>
+<author>John P. Dickerson</author>
+<author>Christoph Studer</author>
+<author>Larry S. Davis</author>
+<author>Gavin Taylor</author>
+<author>Tom Goldstein</author>
+<title>Adversarial training for free!</title>
+<pages>3353-3364</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/7503cfacd12053d309b6bed5c89de212-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8597-adversarial-training-for-free</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#ShafahiNG0DSDTG19</url>
+</inproceedings></dblp>

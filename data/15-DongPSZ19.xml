@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/cvpr/DongPSZ19" mdate="2020-03-05">
+<author>Yinpeng Dong</author>
+<author>Tianyu Pang</author>
+<author>Hang Su 0006</author>
+<author>Jun Zhu 0001</author>
+<title>Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks.</title>
+<pages>4312-4321</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Dong_Evading_Defenses_to_Transferable_Adversarial_Examples_by_Translation-Invariant_Attacks_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00444</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#DongPSZ19</url>
+</inproceedings></dblp>

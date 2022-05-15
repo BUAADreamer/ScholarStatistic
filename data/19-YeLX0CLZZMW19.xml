@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/iccv/YeLX0CLZZMW19" mdate="2020-12-03">
+<author>Shaokai Ye</author>
+<author>Xue Lin</author>
+<author>Kaidi Xu</author>
+<author>Sijia Liu 0001</author>
+<author>Hao Cheng</author>
+<author>Jan-Henrik Lambrechts</author>
+<author>Huan Zhang 0001</author>
+<author>Aojun Zhou</author>
+<author>Kaisheng Ma</author>
+<author>Yanzhi Wang</author>
+<title>Adversarial Robustness vs. Model Compression, or Both?</title>
+<pages>111-120</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00020</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#YeLX0CLZZMW19</url>
+</inproceedings></dblp>

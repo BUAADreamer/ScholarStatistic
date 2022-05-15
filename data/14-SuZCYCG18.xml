@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/eccv/SuZCYCG18" mdate="2020-01-06">
+<author>Dong Su</author>
+<author>Huan Zhang 0001</author>
+<author>Hongge Chen</author>
+<author>Jinfeng Yi</author>
+<author>Pin-Yu Chen</author>
+<author>Yupeng Gao</author>
+<title>Is Robustness the Cost of Accuracy? - A Comprehensive Study on the Robustness of 18 Deep Image Classification Models.</title>
+<pages>644-661</pages>
+<year>2018</year>
+<booktitle>ECCV (12)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01258-8_39</ee>
+<crossref>conf/eccv/2018-12</crossref>
+<url>db/conf/eccv/eccv2018-12.html#SuZCYCG18</url>
+</inproceedings>
+</dblp>

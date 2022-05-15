@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+    <inproceedings key="conf/nips/SchmidtSTTM18" mdate="2021-01-21">
+        <author>Ludwig Schmidt</author>
+        <author>Shibani Santurkar</author>
+        <author>Dimitris Tsipras</author>
+        <author>Kunal Talwar</author>
+        <author>Aleksander Madry</author>
+        <title>Adversarially Robust Generalization Requires More Data.</title>
+        <pages>5019-5031</pages>
+        <year>2018</year>
+        <booktitle>NeurIPS</booktitle>
+        <ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/f708f064faaf32a43e4d3c784e6af9ea-Abstract.html</ee>
+        <ee type="oa">http://papers.nips.cc/paper/7749-adversarially-robust-generalization-requires-more-data</ee>
+        <crossref>conf/nips/2018</crossref>
+        <url>db/conf/nips/nips2018.html#SchmidtSTTM18</url>
+    </inproceedings>
+</dblp>

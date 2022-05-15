@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RossD18" mdate="2022-03-08">
+<author>Andrew Slavin Ross</author>
+<author>Finale Doshi-Velez</author>
+<title>Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing Their Input Gradients.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="archive">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17337</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#RossD18</url>
+<pages>1660-1669</pages>
+</inproceedings></dblp>

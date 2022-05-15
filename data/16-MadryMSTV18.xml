@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/iclr/MadryMSTV18" mdate="2019-07-25">
+<author>Aleksander Madry</author>
+<author>Aleksandar Makelov</author>
+<author>Ludwig Schmidt</author>
+<author>Dimitris Tsipras</author>
+<author>Adrian Vladu</author>
+<title>Towards Deep Learning Models Resistant to Adversarial Attacks.</title>
+<year>2018</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=rJzIBfZAb</ee>
+<crossref>conf/iclr/2018</crossref>
+<url>db/conf/iclr/iclr2018.html#MadryMSTV18</url>
+</inproceedings>
+</dblp>

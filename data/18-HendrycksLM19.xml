@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HendrycksLM19" mdate="2019-06-11">
+<author>Dan Hendrycks</author>
+<author>Kimin Lee</author>
+<author>Mantas Mazeika</author>
+<title>Using Pre-Training Can Improve Model Robustness and Uncertainty.</title>
+<pages>2712-2721</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/hendrycks19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HendrycksLM19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/nips/FawziFF18" mdate="2021-01-21">
+<author>Alhussein Fawzi</author>
+<author>Hamza Fawzi</author>
+<author>Omar Fawzi</author>
+<title>Adversarial vulnerability for any classifier.</title>
+<pages>1186-1195</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/851ddf5058cf22df63d3344ad89919cf-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7394-adversarial-vulnerability-for-any-classifier</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#FawziFF18</url>
+</inproceedings></dblp>

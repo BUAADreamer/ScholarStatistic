@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AthalyeEIK18" mdate="2019-04-03">
+<author>Anish Athalye</author>
+<author>Logan Engstrom</author>
+<author>Andrew Ilyas</author>
+<author>Kevin Kwok</author>
+<title>Synthesizing Robust Adversarial Examples.</title>
+<pages>284-293</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/athalye18b.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#AthalyeEIK18</url>
+</inproceedings>
+</dblp>

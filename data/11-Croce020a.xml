@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Croce020a" mdate="2020-12-15">
+<author>Francesco Croce</author>
+<author>Matthias Hein 0001</author>
+<title>Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks.</title>
+<pages>2206-2216</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/croce20b.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#Croce020a</url>
+</inproceedings></dblp>

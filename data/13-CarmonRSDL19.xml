@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/nips/CarmonRSDL19" mdate="2021-01-21">
+<author>Yair Carmon</author>
+<author>Aditi Raghunathan</author>
+<author>Ludwig Schmidt</author>
+<author>John C. Duchi</author>
+<author>Percy Liang</author>
+<title>Unlabeled Data Improves Adversarial Robustness.</title>
+<pages>11190-11201</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/32e0bd1497aa43e02a42f47d9d6515ad-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/9298-unlabeled-data-improves-adversarial-robustness</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#CarmonRSDL19</url>
+</inproceedings></dblp>

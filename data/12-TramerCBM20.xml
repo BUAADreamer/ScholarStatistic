@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/nips/TramerCBM20" mdate="2021-01-19">
+<author>Florian Tram&#232;r</author>
+<author>Nicholas Carlini</author>
+<author>Wieland Brendel</author>
+<author>Aleksander Madry</author>
+<title>On Adaptive Attacks to Adversarial Example Defenses.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/11f38f8ecd71867b42433548d1078e38-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#TramerCBM20</url>
+</inproceedings>
+</dblp>

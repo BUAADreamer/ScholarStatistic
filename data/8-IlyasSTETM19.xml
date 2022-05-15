@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/nips/IlyasSTETM19" mdate="2021-01-21">
+<author>Andrew Ilyas</author>
+<author>Shibani Santurkar</author>
+<author>Dimitris Tsipras</author>
+<author>Logan Engstrom</author>
+<author>Brandon Tran</author>
+<author>Aleksander Madry</author>
+<title>Adversarial Examples Are Not Bugs, They Are Features.</title>
+<pages>125-136</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/e2c420d928d4bf8ce0ff2ec19b371514-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8307-adversarial-examples-are-not-bugs-they-are-features</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#IlyasSTETM19</url>
+</inproceedings></dblp>
